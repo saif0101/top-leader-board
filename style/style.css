@@ -2,7 +2,38 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #E5E5E5;
 }
+.top-player{
+    width: 870px;
+    height: 679px;
+    left: 285px;
+    top: 130px;
+    margin-top: 4%;
+    padding: 2%;
+    font-weight: 400;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-block-start: 30px;
+    
+    
+}
 .navbar-brand img{
-    width: 42px;
-    height: 50px;
+    width: 41px;
+    height: 45px;
+}
+.navbar-nav > li {
+    font-weight: 400;
+    padding-right: 15px;
+}
+.top-player img{
+    width: 56px;
+    height: 56px;
+    /* margin-block-start: 30px; */
+}
+.top-blog img{
+    width: 177px;
+    height: 117px;
+    margin-block-start: 30px;
+}
+.top-blog{
+    margin-top: 30px;
 }
